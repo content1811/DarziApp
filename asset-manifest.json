@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DarziApp/static/css/main.b460a2a6.css",
+    "main.js": "/DarziApp/static/js/main.59bda5aa.js",
+    "static/js/453.2dbbcb35.chunk.js": "/DarziApp/static/js/453.2dbbcb35.chunk.js",
+    "index.html": "/DarziApp/index.html",
+    "main.b460a2a6.css.map": "/DarziApp/static/css/main.b460a2a6.css.map",
+    "main.59bda5aa.js.map": "/DarziApp/static/js/main.59bda5aa.js.map",
+    "453.2dbbcb35.chunk.js.map": "/DarziApp/static/js/453.2dbbcb35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b460a2a6.css",
+    "static/js/main.59bda5aa.js"
+  ]
+}
